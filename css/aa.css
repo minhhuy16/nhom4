@@ -1,0 +1,9 @@
+.container-fluid div[class^="col"] {
+	border: 1px solid white;
+	/* background: green; */
+}
+.container-fluid .diff{
+	height: 300px;
+	background: blue;
+
+}
